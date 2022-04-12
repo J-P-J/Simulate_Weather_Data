@@ -1,0 +1,326 @@
+Stations_id,von,bis,hoehe,geoBreite,geoLaenge,Stationsname,Bundesland,Landkreis
+3,19930429,20110331,202,50.7827,6.0941,Aachen,Nordrhein-Westfalen,Städteregion Aachen
+44,20070403,20210308,44,52.9336,8.237,Großenkneten,Niedersachsen,Landkreis Oldenburg
+71,20100216,20200101,759,48.2156,8.9784,Albstadt-Badkap,Baden-Württemberg,Zollernalbkreis
+73,20070214,20210308,340,48.6159,13.0506,Aldersbach-Kriestorf,Bayern,Landkreis Passau
+131,20041101,20210308,296,51.0881,12.9326,Geringswalde-Altgeringswalde,Sachsen,Mittelsachsen
+150,20050630,20210308,215,49.7273,8.1164,Alzey,Rheinland-Pfalz,Landkreis Alzey-Worms
+154,20050114,20210308,516,48.0197,12.2925,Amerang-Pfaffing,Bayern,Landkreis Rosenheim
+161,20110901,20210307,75,50.4237,7.4202,Andernach,Rheinland-Pfalz,Landkreis Mayen-Koblenz
+164,19920105,20210307,54,53.0316,13.9908,Angermünde,Brandenburg,Uckermark
+167,20040901,20200805,9,53.8412,13.6846,Anklam,Mecklenburg-Vorpommern,Vorpommern-Greifswald
+183,19911102,20210307,42,54.6791,13.4344,Arkona,Mecklenburg-Vorpommern,Vorpommern-Rügen
+198,19920422,20210307,164,51.3744,11.292,Artern,Thüringen,Kyffhäuserkreis
+217,20041118,20200802,670,47.8774,11.3643,Attenkam,Bayern,Landkreis Bad Tölz-Wolfratshausen
+222,19920421,20080526,393,50.5908,12.7139,Aue,Sachsen,Erzgebirgskreis
+232,19961108,20210307,462,48.4253,10.9417,Augsburg,Bayern,Landkreis Aichach-Friedberg
+282,19950601,20210307,240,49.8743,10.9206,Bamberg,Bayern,Bamberg
+298,19920507,20210307,3,54.3405,12.7108,Barth,Mecklenburg-Vorpommern,Vorpommern-Rügen
+303,19930901,20210307,55,52.0613,13.4997,Baruth,Brandenburg,Teltow-Fläming
+320,20060511,20210308,350,49.9667,11.5197,Heinersreuth-Vollhof,Bayern,Landkreis Bayreuth
+326,20040701,20130708,120,51.7204,8.0577,Beckum-Unterberg,Nordrhein-Westfalen,Kreis Warendorf
+342,20101202,20210307,103,52.317,8.1694,Belm,Niedersachsen,Landkreis Osnabrück
+348,19910102,20110901,127,50.4135,7.5886,Bendorf,Rheinland-Pfalz,Landkreis Mayen-Koblenz
+377,20040930,20210308,210,49.107,7.9967,"Bergzabern, Bad",Rheinland-Pfalz,Landkreis Südliche Weinstraße
+410,20040128,20181209,33,52.404,13.7309,Berlin-Kaniswall,Berlin,Berlin
+427,19920219,20210307,46,52.3807,13.5306,Berlin Brandenburg,Brandenburg,Dahme-Spreewald
+430,19941223,20210308,36,52.5644,13.3088,Berlin-Tegel,Berlin,Berlin
+433,19950601,20210307,48,52.4675,13.4021,Berlin-Tempelhof,Berlin,Berlin
+445,20040128,20200816,85,51.8218,11.711,Bernburg/Saale (Nord),Sachsen-Anhalt,Salzlandkreis
+460,19931001,20210307,363,49.2641,6.6868,Berus,Saarland,Landkreis Saarlouis
+535,20040601,20200914,417,50.0372,7.3079,Blankenrath,Rheinland-Pfalz,Landkreis Cochem-Zell
+554,19940526,20060228,23,51.8293,6.5365,Bocholt-Liedern (Wasserwerk),Nordrhein-Westfalen,Kreis Borken
+555,20080528,20181031,101,51.4789,7.2697,Bochum,Nordrhein-Westfalen,Bochum-Ost
+591,19920417,20210307,45,53.3911,10.6878,Boizenburg,Mecklenburg-Vorpommern,Ludwigslust-Parchim
+596,19920427,20210307,15,54.0027,11.1908,Boltenhagen,Mecklenburg-Vorpommern,Nordwestmecklenburg
+603,20071025,20190930,147,50.7293,7.204,Königswinter-Heiderhof,Nordrhein-Westfalen,Rhein-Sieg-Kreis
+656,19910815,20200427,607,51.7234,10.6021,Braunlage,Niedersachsen,Landkreis Goslar
+662,19970702,20210307,81,52.2915,10.4464,Braunschweig,Niedersachsen,Braunschweig
+691,19910620,20210307,4,53.045,8.7979,Bremen,Bremen,Bremen
+701,19971120,20210307,7,53.5332,8.5761,Bremerhaven,Bremen,Bremen
+704,20020801,20210307,11,53.4451,9.139,Bremervörde,Niedersachsen,Landkreis Rotenburg (Wümme)
+722,19970605,20210307,1135,51.7986,10.6183,Brocken,Sachsen-Anhalt,Landkreis Harz
+755,20040601,20201008,340,49.5182,9.3213,"Buchen, Kr. Neckar-Odenwald",Baden-Württemberg,Neckar-Odenwald-Kreis
+757,20040128,20201102,445,47.9625,7.9983,Buchenbach,Baden-Württemberg,Landkreis Breisgau-Hochschwarzwald
+840,19920420,20210307,897,50.4313,12.6114,Carlsfeld,Sachsen,Erzgebirgskreis
+853,19911107,20210307,418,50.7913,12.872,Chemnitz,Sachsen,Chemnitz
+856,20030501,20210307,551,47.8843,12.5404,Chieming,Bayern,Landkreis Traunstein
+863,20071001,20120404,585,51.7904,10.347,Clausthal-Zellerfeld,Niedersachsen,Landkreis Goslar
+867,19920215,20210307,344,50.3066,10.9679,Lautertal-Oberlauter,Bayern,Landkreis Coburg
+880,19911108,20210307,69,51.776,14.3168,Cottbus,Brandenburg,Cottbus - Chóśebuz
+891,19990429,20210307,5,53.8713,8.7058,Cuxhaven,Niedersachsen,Landkreis Cuxhaven
+953,19970731,20210307,481,49.7619,7.0542,Deuselbach,Rheinland-Pfalz,Landkreis Bernkastel-Wittlich
+963,19960614,20210307,38,52.5881,8.3424,Diepholz,Niedersachsen,Landkreis Diepholz
+979,20040901,20210308,314,50.7364,8.2672,Dillenburg,Hessen,Lahn-Dill-Kreis
+983,20070413,20210308,419,48.5562,10.5599,Dillingen/Donau-Fristingen,Bayern,Landkreis Dillingen an der Donau
+1001,19920512,20210307,97,51.6451,13.5747,Doberlug-Kirchhain,Brandenburg,Elbe-Elster
+1048,19920522,20210307,227,51.128,13.7543,Dresden-Klotzsche,Sachsen,Dresden
+1050,20051017,20210308,112,51.0221,13.847,Dresden-Hosterwitz,Sachsen,Dresden
+1078,19920913,20210307,37,51.296,6.7686,Düsseldorf,Nordrhein-Westfalen,Düsseldorf
+1197,20040128,20210308,460,48.9895,10.1312,Ellwangen-Rindelbach,Baden-Württemberg,Ostalbkreis
+1200,20070207,20210307,3,54.0691,9.0105,Elpersbüttel,Schleswig-Holstein,Dithmarschen
+1214,20040801,20210308,431,48.2012,8.1088,Elzach-Fisnacht,Baden-Württemberg,Landkreis Emmendingen
+1219,19930101,19981102,5,53.3449,7.1909,Emden-Nesserland,Niedersachsen,Emden
+1246,20150801,20210308,104,51.8418,8.0607,Ennigerloh-Ostenfelde,Nordrhein-Westfalen,Kreis Warendorf
+1255,20040128,20181231,220,49.1664,8.8523,Eppingen-Elsenz,Baden-Württemberg,Landkreis Heilbronn
+1262,19920520,20210308,446,48.3477,11.8134,München-Flughafen,Bayern,Landkreis Erding
+1270,19920416,20210307,316,50.9829,10.9608,Erfurt-Weimar,Thüringen,Erfurt
+1279,20060510,20210308,268,49.6497,11.0074,Möhrendorf-Kleinseebach,Bayern,Landkreis Erlangen-Höchstadt
+1297,20041001,20210308,156,51.2041,10.0138,Eschwege,Hessen,Werra-Meißner-Kreis
+1303,19940504,20210307,150,51.4041,6.9677,Essen-Bredeney,Nordrhein-Westfalen,Essen
+1327,20040801,20210308,147,50.7119,6.7905,Weilerswist-Lommersum,Nordrhein-Westfalen,Kreis Euskirchen
+1346,19951027,20210307,1490,47.8749,8.0038,Feldberg/Schwarzwald,Baden-Württemberg,Landkreis Breisgau-Hochschwarzwald
+1358,19911112,20210307,1213,50.4283,12.9536,Fichtelberg,Sachsen,Erzgebirgskreis
+1420,19930305,20210307,100,50.0259,8.5213,Frankfurt/Main,Hessen,Kreis Groß-Gerau
+1443,19940427,20210307,237,48.0232,7.8343,Freiburg,Baden-Württemberg,Freiburg im Breisgau
+1468,19910102,20210307,797,48.4538,8.409,Freudenstadt,Baden-Württemberg,Landkreis Freudenstadt
+1473,20060101,20190228,414,49.1869,11.308,Freystadt-Michelbach,Bayern,Landkreis Neumarkt in der Oberpfalz
+1503,20121001,20210307,6,53.0643,7.9022,Friesoythe-Altenoythe,Niedersachsen,Landkreis Cloppenburg
+1544,19920305,20210307,47,52.5129,11.3942,Gardelegen,Sachsen-Anhalt,Altmarkkreis Salzwedel
+1550,19910102,20210307,719,47.483,11.0621,Garmisch-Partenkirchen,Bayern,Landkreis Garmisch-Partenkirchen
+1580,19970101,20210307,110,49.9859,7.9548,Geisenheim,Hessen,Rheingau-Taunus-Kreis
+1587,20031210,20210307,536,48.9481,11.4289,Gelbelsee,Bayern,Landkreis Eichstätt
+1590,20040128,20210308,37,51.4942,6.2463,Geldern-Walbeck,Nordrhein-Westfalen,Kreis Kleve
+1605,19920417,20210307,35,52.3875,12.1602,Genthin,Sachsen-Anhalt,Jerichower Land
+1612,19920409,20210307,311,50.8813,12.1289,Gera-Leumnitz,Thüringen,Gera
+1639,19961011,20210307,203,50.6017,8.6439,Gießen/Wettenberg,Hessen,Landkreis Gießen
+1684,19920407,20210307,238,51.1622,14.9506,Görlitz,Sachsen,Görlitz
+1691,19931110,20210307,167,51.5002,9.9507,Göttingen,Niedersachsen,Landkreis Göttingen
+1694,19920427,20210307,58,53.6058,12.1034,Goldberg,Mecklenburg-Vorpommern,Ludwigslust-Parchim
+1735,20050301,20210308,628,48.7894,13.629,Grainet-Rehberg,Bayern,Landkreis Freyung-Grafenau
+1757,19931028,20210307,2,54.0967,13.4056,Greifswald,Mecklenburg-Vorpommern,Vorpommern-Greifswald
+1759,20001026,20210307,12,54.2437,13.9102,Greifswalder Oie,Mecklenburg-Vorpommern,Vorpommern-Greifswald
+1766,19950705,20210307,48,52.1344,7.6969,Münster/Osnabrück,Nordrhein-Westfalen,Kreis Steinfurt
+1832,19980226,20210307,1436,49.1129,13.1338,Großer Arber,Bayern,Landkreis Regen
+1869,19920220,20210307,56,53.3153,13.9338,Grünow,Brandenburg,Uckermark
+1957,19911101,20150323,93,51.5138,11.9499,Halle-Kröllwitz,Sachsen-Anhalt,Halle (Saale)
+1975,19950829,20210307,14,53.6332,9.9881,Hamburg-Fuhlsbüttel,Hamburg,Hamburg
+1993,20091101,20210308,68,52.0848,9.3896,Hameln,Niedersachsen,Landkreis Hameln-Pyrmont
+2014,19920430,20210308,59,52.4644,9.6779,Hannover,Niedersachsen,Region Hannover
+2023,20021114,20210307,501,48.7918,10.7062,Harburg,Bayern,Landkreis Donau-Ries
+2044,19910115,20210307,404,51.652,11.1367,Harzgerode,Sachsen-Anhalt,Landkreis Harz
+2074,20050608,20210308,518,48.3752,8.98,Hechingen,Baden-Württemberg,Zollernalbkreis
+2088,20040128,20050511,498,48.6765,10.1307,Heidenheim/Brenz,Baden-Württemberg,Landkreis Heidenheim
+2115,19961220,20210307,4,54.175,7.892,Helgoland,Schleswig-Holstein,Pinneberg
+2171,19941221,20210307,272,50.852,9.7377,"Hersfeld, Bad",Hessen,Landkreis Hersfeld-Rotenburg
+2174,20101101,20210308,238,51.6255,10.3695,Herzberg,Niedersachsen,Landkreis Göttingen
+2252,20050701,20210308,270,50.899,14.7457,Bertsdorf-Hörnitz,Sachsen,Görlitz
+2261,19980212,20210307,565,50.3123,11.876,Hof,Bayern,Hof
+2290,19931210,20210307,977,47.8009,11.0108,Hohenpeißenberg,Bayern,Landkreis Weilheim-Schongau
+2429,20030705,20200115,21,53.9897,9.5696,Itzehoe,Schleswig-Holstein,Steinburg
+2483,19950804,20210307,839,51.1803,8.4891,Kahler Asten,Nordrhein-Westfalen,Hochsauerlandkreis
+2485,20110501,20210307,489,48.917,9.6871,Kaisersbach-Cronhütte,Baden-Württemberg,Rems-Murr-Kreis
+2497,20040128,20210308,505,50.5014,6.5264,Kall-Sistig,Nordrhein-Westfalen,Kreis Euskirchen
+2503,19920418,20030505,487,50.6266,10.1455,Kaltennordheim,Thüringen,Landkreis Schmalkalden-Meiningen
+2522,19960725,20081031,112,49.0382,8.3641,Karlsruhe,Baden-Württemberg,Karlsruhe
+2532,19990902,20131031,231,51.2963,9.4424,Kassel,Hessen,Niestetal
+2559,19920430,20210307,705,47.7233,10.3348,Kempten,Bayern,Kempten (Allgäu)
+2564,20130501,20190504,28,54.3776,10.1424,Kiel-Holtenau,Schleswig-Holstein,Rendsburg-Eckernförde
+2597,19950602,20210307,282,50.224,10.0792,"Kissingen, Bad",Bayern,Landkreis Bad Kissingen
+2601,19921002,20210307,826,50.2218,8.4469,Kleiner Feldberg/Taunus,Hessen,Hochtaunuskreis
+2627,20040128,20210308,128,51.5554,13.8845,Klettwitz,Brandenburg,Oberspreewald-Lausitz
+2638,19921106,20210307,974,48.1054,8.7548,Klippeneck,Baden-Württemberg,Landkreis Tuttlingen
+2667,19931112,20210307,92,50.8646,7.1575,Köln-Bonn,Nordrhein-Westfalen,Rhein-Sieg-Kreis
+2700,20041026,20210308,416,48.8302,11.4872,Kösching,Bayern,Landkreis Eichstätt
+2708,20060617,20200317,742,47.6652,11.0805,"Kohlgrub, Bad (Rosshof)",Bayern,Landkreis Garmisch-Partenkirchen
+2712,19930813,20210307,428,47.6952,9.1307,Konstanz,Baden-Württemberg,Landkreis Konstanz
+2750,20051101,20210308,310,50.2524,11.3209,Kronach,Bayern,Landkreis Kronach
+2794,19920416,20210307,40,52.9363,12.4093,Kyritz,Brandenburg,Ostprignitz-Ruppin
+2812,19960829,20210307,156,48.3647,7.828,Lahr,Baden-Württemberg,Ortenaukreis
+2878,20170801,20210308,117,51.3909,11.8786,"Lauchstädt, Bad",Sachsen-Anhalt,Saalekreis
+2907,19990202,20210307,7,54.7903,8.9514,Leck,Schleswig-Holstein,Nordfriesland
+2925,19920411,20210307,356,51.3933,10.3123,Leinefelde,Thüringen,Landkreis Eichsfeld
+2928,19970318,20210203,138,51.3151,12.4462,Leipzig-Holzhausen,Sachsen,Leipzig
+2932,19940118,20210307,131,51.4348,12.2396,Leipzig/Halle,Sachsen,Nordsachsen
+2947,20080423,20210308,286,51.1333,8.0348,Lennestadt-Theten,Nordrhein-Westfalen,Kreis Olpe
+2951,20040128,20200916,20,53.1007,11.4864,Lenzen/Elbe,Brandenburg,Prignitz
+2953,20070401,20210308,852,47.8597,8.2308,Lenzkirch-Ruhbühl,Baden-Württemberg,Landkreis Breisgau-Hochschwarzwald
+2961,20180809,20210307,31,54.4996,10.2737,Leuchtturm Kiel,Schleswig-Holstein,Lotsenstation
+2985,19920512,20210307,321,50.9383,14.2093,Lichtenhain-Mittelndorf,Sachsen,Sächsische Schweiz-Osterzgebirge
+3015,19921107,20210307,98,52.2085,14.118,Lindenberg,Brandenburg,Oder-Spree
+3023,19910102,20161231,22,52.5181,7.3081,Lingen,Niedersachsen,Landkreis Emsland
+3028,19920806,20210307,157,51.7854,8.8388,"Lippspringe, Bad",Nordrhein-Westfalen,Kreis Paderborn
+3031,20040128,20210308,92,51.6336,8.3945,Lippstadt-Bökenförde,Nordrhein-Westfalen,Kreis Soest
+3032,19951202,20210307,25,55.011,8.4125,List auf Sylt,Schleswig-Holstein,Nordfriesland
+3044,20070630,20180601,22,52.7198,7.7472,Löningen,Niedersachsen,Landkreis Cloppenburg
+3083,20041001,20210308,57,51.9267,13.8797,Lübben-Blumenfelde,Brandenburg,Dahme-Spreewald
+3086,19960702,20210307,15,53.8025,10.6989,Lübeck-Blankensee,Schleswig-Holstein,Lübeck
+3093,19930923,20210307,16,52.9724,11.1374,Lüchow,Niedersachsen,Lüchow-Dannenberg
+3098,19931223,20210307,387,51.2452,7.6425,Lüdenscheid,Nordrhein-Westfalen,Märkischer Kreis
+3126,19930205,20210307,79,52.1029,11.5827,Magdeburg,Sachsen-Anhalt,Magdeburg
+3155,20040128,20210308,413,50.1015,6.8009,Manderscheid-Sonnenhof,Rheinland-Pfalz,Landkreis Vulkaneifel
+3158,19920306,20210307,12,52.5468,14.5452,Manschnow,Brandenburg,Märkisch-Oderland
+3166,19920415,20210307,639,50.651,13.1469,Marienberg,Sachsen,Erzgebirgskreis
+3167,19990602,20210307,547,50.6621,7.9603,"Marienberg, Bad",Rheinland-Pfalz,Westerwaldkreis
+3196,19961002,20210307,81,53.3223,11.9319,Marnitz,Mecklenburg-Vorpommern,Ludwigslust-Parchim
+3204,20080530,20210308,429,50.7335,10.8815,Martinroda,Thüringen,Ilm-Kreis
+3231,19920424,20210307,450,50.5612,10.3771,Meiningen,Thüringen,Landkreis Schmalkalden-Meiningen
+3244,20090801,20210308,615,47.982,10.1384,Memmingen,Bayern,Landkreis Unterallgäu
+3268,20131001,20210307,900,48.1694,8.9433,Meßstetten-Appental,Baden-Württemberg,Zollernalbkreis
+3271,20041014,20180731,314,48.8548,12.9189,Metten,Bayern,Landkreis Deggendorf
+3278,20040128,20210308,354,48.5377,9.2734,Metzingen,Baden-Württemberg,Landkreis Reutlingen
+3287,19910102,20210307,453,49.7177,9.0997,Michelstadt-Vielbrunn,Hessen,Odenwaldkreis
+3321,20080425,20200114,77,51.1313,6.3609,Mönchengladbach-Hilderath,Nordrhein-Westfalen,Mönchengladbach
+3362,20060627,20210307,243,48.9721,8.8735,Mühlacker,Baden-Württemberg,Enzkreis
+3366,19890307,20210307,406,48.279,12.5024,Mühldorf,Bayern,Landkreis Mühldorf am Inn
+3376,20040128,20210308,63,52.5176,14.1232,Müncheberg,Brandenburg,Märkisch-Oderland
+3379,19970801,20210307,515,48.1632,11.5429,München-Stadt,Bayern,München
+3402,20040128,20200928,750,48.3851,9.4837,Münsingen-Apfelstetten,Baden-Württemberg,Landkreis Reutlingen
+3426,20040601,20201014,127,51.566,14.7008,"Muskau, Bad",Sachsen,Görlitz
+3478,19920319,20050816,81,53.5468,13.1914,Neubrandenburg,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte
+3490,20040128,20200811,111,50.5346,7.0853,"Neuenahr, Bad-Ahrweiler",Rheinland-Pfalz,Landkreis Ahrweiler
+3513,19920417,20190806,845,50.5002,11.1344,Neuhaus am Rennweg,Thüringen,Landkreis Sonneberg
+3540,20041101,20200728,195,50.8446,7.372,Neunkirchen-Seelscheid-Krawinkel,Nordrhein-Westfalen,Rhein-Sieg-Kreis
+3552,19920520,20190408,38,52.9037,12.8072,Neuruppin,Brandenburg,Ostprignitz-Ruppin
+3571,20080301,20210308,452,49.8174,11.8638,Neustadt am Kulm-Filchendorf,Bayern,Landkreis Neustadt an der Waldnaab
+3612,20070222,20210308,25,52.6711,9.2229,Nienburg,Niedersachsen,Landkreis Nienburg/Weser
+3631,19930915,20210307,12,53.7123,7.1519,Norderney,Niedersachsen,Landkreis Aurich
+3660,19950601,20210307,485,50.3602,6.8697,Nürburg-Barweiler,Rheinland-Pfalz,Landkreis Ahrweiler
+3668,19950808,20210307,314,49.503,11.0549,Nürnberg,Bayern,Nürnberg
+3730,19940731,20210307,806,47.3984,10.2759,Oberstdorf,Bayern,Landkreis Oberallgäu
+3761,19920702,20210307,276,49.207,9.5176,Öhringen,Baden-Württemberg,Hohenlohekreis
+3791,19981002,20121001,11,53.1763,8.1824,Oldenburg,Niedersachsen,Oldenburg
+3811,19920412,20210307,150,51.296,13.0928,Oschatz,Sachsen,Nordsachsen
+3815,19930102,20101130,95,52.2553,8.0534,Osnabrück,Niedersachsen,Osnabrück
+3821,19920412,20210307,246,51.0873,11.9292,Osterfeld,Sachsen-Anhalt,Burgenlandkreis
+3875,20050101,20210308,549,49.151,11.6896,Parsberg/Oberpfalz-Eglwang,Bayern,Landkreis Neumarkt in der Oberpfalz
+3897,20060818,20200418,2,54.0893,10.8773,Pelzerhaken,Schleswig-Holstein,Ostholstein
+3904,20040901,20210308,152,49.5354,6.3789,Perl-Nennig,Saarland,Landkreis Merzig-Wadern
+3946,19911102,20210301,386,50.4819,12.13,Plauen,Sachsen,Vogtlandkreis
+3975,20050301,20200813,522,49.4777,11.5357,Pommelsbrunn-Mittelburg,Bayern,Landkreis Nürnberger Land
+3987,19920817,20210307,81,52.3813,13.0622,Potsdam,Brandenburg,Potsdam
+4024,19920412,20210307,40,54.3643,13.4771,Putbus,Mecklenburg-Vorpommern,Vorpommern-Rügen
+4032,20080522,20210308,142,51.7953,11.132,Quedlinburg,Sachsen-Anhalt,Landkreis Harz
+4039,20030513,20200701,11,53.7331,9.8776,Quickborn,Schleswig-Holstein,Pinneberg
+4063,20040128,20210128,41,52.4461,8.5906,Rahden-Kleinendorf,Nordrhein-Westfalen,Kreis Minden-Lübbecke
+4094,20040601,20210308,440,47.8062,9.6206,"Weingarten, Kr. Ravensburg",Baden-Württemberg,Landkreis Ravensburg
+4104,19940316,20210307,365,49.0425,12.1019,Regensburg,Bayern,Regensburg
+4127,20050101,20210308,347,50.9906,7.6958,Reichshof-Eckenhagen,Nordrhein-Westfalen,Oberbergischer Kreis
+4160,20040701,20210308,478,48.7425,8.924,Renningen-Ihinger Hof,Baden-Württemberg,Landkreis Böblingen
+4169,20040128,20210308,131,48.6703,7.9939,Rheinau-Memprechtshofen,Baden-Württemberg,Ortenaukreis
+4175,20040601,20210308,283,47.559,7.7721,Rheinfelden,Baden-Württemberg,Landkreis Lörrach
+4177,20081101,20210307,116,48.9726,8.3301,Rheinstetten,Baden-Württemberg,Landkreis Karlsruhe
+4189,20040801,20210308,533,48.1479,9.4596,"Altheim, Kreis Biberach",Baden-Württemberg,Landkreis Biberach
+4261,20060211,20210308,442,47.8753,12.128,Rosenheim,Bayern,Rosenheim
+4271,19920527,20210307,4,54.1803,12.0808,Rostock-Warnemünde,Mecklenburg-Vorpommern,Rostock
+4275,20041201,20210308,32,53.1288,9.3398,Rotenburg (Wümme),Niedersachsen,Landkreis Rotenburg (Wümme)
+4300,20040701,20210308,588,48.1814,8.6356,Rottweil,Baden-Württemberg,Landkreis Rottweil
+4301,20050301,20210308,102,49.8502,7.871,"Kreuznach, Bad",Rheinland-Pfalz,Landkreis Bad Kreuznach
+4336,19960621,20210307,320,49.2128,7.1077,Saarbrücken-Ensheim,Saarland,Regionalverband Saarbrücken
+4347,20001016,20030708,292,51.5909,10.5691,"Sachsa, Bad",Niedersachsen,Landkreis Göttingen
+4354,20051207,20210308,457,48.7832,13.3146,Saldenburg-Entschenreuth,Bayern,Landkreis Freyung-Grafenau
+4371,19920604,20190905,135,52.1042,8.7521,"Salzuflen, Bad",Nordrhein-Westfalen,Kreis Lippe
+4393,19991203,20210307,5,54.3279,8.6031,Sankt Peter-Ording,Schleswig-Holstein,Nordfriesland
+4411,20040125,20210308,155,49.9195,8.9671,Schaafheim-Schlierbach,Hessen,Landkreis Darmstadt-Dieburg
+4445,19911113,19920310,609,51.7658,10.6533,Wernigerode-Schierke,Sachsen-Anhalt,Landkreis Harz
+4464,19920418,20210307,501,50.5679,11.8041,Schleiz,Thüringen,Saale-Orla-Kreis
+4466,19910418,20210307,43,54.5275,9.5487,Schleswig,Schleswig-Holstein,Schleswig-Flensburg
+4501,19921006,20210307,937,50.6546,10.7693,Schmücke,Thüringen,Suhl
+4560,20040902,20200909,265,50.4925,9.1226,Schotten,Hessen,Vogelsbergkreis
+4592,20051201,20210308,356,49.3278,12.0871,Schwandorf,Bayern,Landkreis Schwandorf
+4625,19920328,20210307,59,53.6425,11.3872,Schwerin,Mecklenburg-Vorpommern,Schwerin
+4642,19911102,20210307,21,52.8911,11.7297,Seehausen,Sachsen-Anhalt,Stendal
+4704,20050501,20200923,507,47.5776,9.7404,Sigmarszell-Zeisertsweiler,Bayern,Landkreis Lindau
+4706,20050104,20200918,358,48.2718,13.0273,Simbach/Inn,Bayern,Landkreis Rottal-Inn
+4745,19921028,20210307,75,52.9604,9.793,Soltau,Niedersachsen,Heidekreis
+4748,20041101,20101231,221,51.352,10.9059,Sondershausen,Thüringen,Kyffhäuserkreis
+4752,19920417,20080630,626,50.3746,11.1828,Sonneberg-Neufang,Thüringen,Landkreis Sonneberg
+4887,19941203,20210307,734,48.6656,9.8648,Stötten,Baden-Württemberg,Landkreis Göppingen
+4911,19961025,20210307,351,48.8275,12.5597,Straubing,Bayern,Landkreis Straubing-Bogen
+4928,19980605,20210307,314,48.8281,9.2,Stuttgart (Schnarrenberg),Baden-Württemberg,Stuttgart
+4931,19950930,20210307,371,48.6883,9.2235,Stuttgart-Echterdingen,Baden-Württemberg,Landkreis Esslingen
+4947,20061101,20200915,129,52.2317,10.92,Süpplingen,Niedersachsen,Landkreis Helmstedt
+5009,19911101,20210308,38,53.761,12.5574,Teterow,Mecklenburg-Vorpommern,Landkreis Rostock
+5029,19931111,20210307,386,49.4737,7.0385,Tholey,Saarland,Landkreis St. Wendel
+5097,20050101,20201216,10,54.0661,12.7675,Tribsees,Mecklenburg-Vorpommern,Vorpommern-Rügen
+5100,20001019,20210307,265,49.7479,6.6583,Trier-Petrisberg,Rheinland-Pfalz,Trier
+5109,20131001,20210307,69,53.5997,13.3039,Trollenhagen,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte
+5133,20040901,20160531,295,51.3344,8.9132,Twistetal-Mühlhausen,Hessen,Landkreis Waldeck-Frankenberg
+5142,19920817,20210307,1,53.7444,14.0697,Ueckermünde,Mecklenburg-Vorpommern,Vorpommern-Greifswald
+5146,20040601,20210308,50,52.9414,10.5289,Uelzen,Niedersachsen,Uelzen
+5155,19911207,20140901,567,48.3837,9.9524,Ulm,Baden-Württemberg,Ulm
+5158,19921002,20210307,162,52.1601,11.1759,Ummendorf,Sachsen-Anhalt,Börde
+5347,20060928,20210307,236,51.5039,9.1118,Warburg,Nordrhein-Westfalen,Kreis Höxter
+5349,20020828,20210307,73,53.5196,12.6654,Waren (Müritz),Mecklenburg-Vorpommern,Mecklenburgische Seenplatte
+5371,19961024,20210307,921,50.4973,9.9427,Wasserkuppe,Hessen,Landkreis Fulda
+5397,19910705,20210307,440,49.6662,12.1844,Weiden,Bayern,Weiden in der Oberpfalz
+5404,19970102,20210307,477,48.4024,11.6946,Weihenstephan-Dürnast,Bayern,Landkreis Freising
+5419,19951201,20070630,264,50.9751,11.3076,Weimar,Thüringen,Weimar
+5424,20070601,20210308,328,51.0177,11.3544,Weimar-Schöndorf,Thüringen,Weimar
+5426,19931028,20210307,553,49.3758,8.1212,Weinbiet,Rheinland-Pfalz,Neustadt an der Weinstraße
+5433,20040901,20210308,380,49.5534,6.812,Weiskirchen/Saar,Saarland,Landkreis Merzig-Wadern
+5440,19930415,20210307,439,49.0115,10.9308,Weißenburg-Emetzheim,Bayern,Landkreis Weißenburg-Gunzenhausen
+5467,19910102,20120921,1832,47.7035,12.0119,Wendelstein,Bayern,Landkreis Rosenheim
+5480,20030910,20210307,85,51.5763,7.8879,Werl,Nordrhein-Westfalen,Kreis Soest
+5490,19920717,20210307,233,51.8454,10.7686,Wernigerode,Sachsen-Anhalt,Landkreis Harz
+5516,19960601,20210307,3,54.5283,11.0606,Fehmarn,Schleswig-Holstein,Ostholstein
+5538,20041118,20210308,551,47.8827,11.1576,Wielenbach (Demollstr.),Bayern,Landkreis Weilheim-Schongau
+5546,19920515,20210307,187,52.1207,12.4585,Wiesenburg,Brandenburg,Potsdam-Mittelmark
+5562,20040601,20210308,570,48.6516,8.6801,Neubulach-Oberhaugstett,Baden-Württemberg,Landkreis Calw
+5629,19920417,20210307,105,51.8892,12.6445,Wittenberg,Sachsen-Anhalt,Wittenberg
+5663,19931001,19961201,118,53.4618,13.6099,Woldegk,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte
+5705,19921027,20210307,268,49.7704,9.9576,Würzburg,Bayern,Würzburg
+5745,20040601,20210308,51,52.9664,13.3268,Zehdenick,Brandenburg,Oberhavel
+5779,19911102,20210307,877,50.7314,13.7516,Zinnwald-Georgenfeld,Sachsen,Sächsische Schweiz-Osterzgebirge
+5792,19940731,20210307,2965,47.421,10.9848,Zugspitze,Bayern,Landkreis Garmisch-Partenkirchen
+5800,20060715,20210307,615,49.028,13.2385,Zwiesel,Bayern,Landkreis Regen
+5822,20040701,20210308,40,52.863,8.6988,Bassum,Niedersachsen,Landkreis Diepholz
+5825,20040128,20210308,40,52.6198,12.7867,Berge,Brandenburg,Havelland
+5839,19970710,20210307,0,53.3881,7.2287,Emden,Niedersachsen,Emden
+5856,19970101,20210307,476,48.5451,13.3532,Fürstenzell,Bayern,Landkreis Passau
+5871,19981223,20210307,497,49.9463,7.2645,Hahn,Rheinland-Pfalz,Rhein-Hunsrück-Kreis
+5906,19930715,20210307,98,49.5062,8.5585,Mannheim,Baden-Württemberg,Mannheim
+5930,20070928,20210307,1,54.641,10.0238,Schönhagen (Ostseebad),Schleswig-Holstein,Rendsburg-Eckernförde
+6105,20040501,20210308,14,54.3194,9.8051,Ostenfeld (Rendsburg),Schleswig-Holstein,Rendsburg-Eckernförde
+6109,20040602,20210308,50,53.3837,14.3728,Grambow-Schwennenz,Mecklenburg-Vorpommern,Vorpommern-Greifswald
+6158,20040929,20210308,455,49.2247,10.6084,Weidenbach-Weiherschneidbach,Bayern,Landkreis Ansbach
+6159,20081201,20210308,8,52.9542,7.3196,Dörpen,Niedersachsen,Landkreis Emsland
+6163,20061110,20210307,27,54.1654,10.3519,Dörnick,Schleswig-Holstein,Plön
+6197,20060928,20210307,258,51.8664,9.271,Lügde-Paenbruch,Nordrhein-Westfalen,Kreis Lippe
+6258,20040128,20210308,461,47.6845,9.4409,Friedrichshafen-Unterraderach,Baden-Württemberg,Bodenseekreis
+6259,20050830,20201006,524,49.021,9.6033,Großerlach-Mannenweiler,Baden-Württemberg,Rems-Murr-Kreis
+6264,20040601,20200908,457,51.414,8.65,Brilon-Thülen,Nordrhein-Westfalen,Hochsauerlandkreis
+6265,20040430,20210308,36,52.3613,12.3867,Wusterwitz,Brandenburg,Potsdam-Mittelmark
+6310,20040801,20210308,1,54.1049,13.8239,Karlshagen,Mecklenburg-Vorpommern,Vorpommern-Greifswald
+6312,20041101,20200930,362,49.5314,10.6418,Markt Erlbach-Mosbach,Bayern,Landkreis Neustadt an der Aisch-Bad Windsheim
+6314,20050801,20210308,306,51.0507,13.3003,Nossen,Sachsen,Meißen
+6337,20040801,20210308,59,51.7663,7.5194,Lüdinghausen-Brochtrup,Nordrhein-Westfalen,Kreis Coesfeld
+6344,20041201,20210308,168,50.394,8.1423,Runkel-Ennerich,Hessen,Landkreis Limburg-Weilburg
+6347,20050301,20210308,304,50.0579,10.2972,Schonungen-Mainberg,Bayern,Landkreis Schweinfurt
+7075,20050201,20200909,429,48.702,11.8493,Elsendorf-Horneck,Bayern,Landkreis Kelheim
+7099,20041101,20210308,187,52.0111,10.3966,Liebenburg-Othfresen,Niedersachsen,Landkreis Goslar
+7106,20080423,20210308,105,52.0714,8.4565,Bielefeld-Deppendorf,Nordrhein-Westfalen,Bielefeld
+7244,19920430,20040926,62,53.1424,13.0319,Neuglobsow (HM),Brandenburg,Oberhavel
+7298,20050701,20210308,5,54.5268,9.0425,Hattstedt,Schleswig-Holstein,Nordfriesland
+7329,20051101,20200902,465,50.5467,12.2863,Treuen,Sachsen,Vogtlandkreis
+7330,20051001,20210308,159,51.4633,7.978,Arnsberg-Neheim,Nordrhein-Westfalen,Hochsauerlandkreis
+7331,20050901,20210308,467,48.6099,10.2674,Hermaringen-Allewind,Baden-Württemberg,Landkreis Heidenheim
+7341,20050719,20210307,119,50.0899,8.7862,Offenbach-Wetterpark,Hessen,Offenbach am Main
+7351,20050909,20210307,116,53.3175,13.4175,Feldberg/Mecklenburg,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte
+7367,20071201,20210307,144,51.9643,9.8072,Alfeld,Niedersachsen,Landkreis Hildesheim
+7368,20071101,20210307,312,51.0007,10.3621,Eisenach,Thüringen,Wutha-Farnroda
+7369,20071101,20210307,475,49.1623,10.3661,Feuchtwangen-Heilbronn,Bayern,Landkreis Ansbach
+7370,20061211,20210307,499,49.391,12.6838,Waldmünchen,Bayern,Landkreis Cham
+7373,20060301,20210308,3,53.5984,6.7024,Borkum-Flugplatz,Niedersachsen,Landkreis Leer
+7374,20060301,20210307,46,52.0813,6.9409,Ahaus,Nordrhein-Westfalen,Kreis Borken
+7389,20070508,20210308,82,52.7461,13.8427,Heckelberg,Brandenburg,Märkisch-Oderland
+7393,20100101,20210307,116,51.4493,14.2533,Hoyerswerda,Sachsen,Bautzen
+7394,20060602,20210307,622,50.0315,11.9745,Wunsiedel-Schönbrunn,Bayern,Landkreis Wunsiedel im Fichtelgebirge
+7395,20071201,20210307,351,48.6595,12.5388,Gottfrieding,Bayern,Landkreis Dingolfing-Landau
+7396,20080501,20210307,743,50.5084,9.2246,Hoherodskopf/Vogelsberg,Hessen,Vogelsbergkreis
+7403,20070402,20210307,672,47.7955,10.0324,Leutkirch-Herlazhofen,Baden-Württemberg,Landkreis Ravensburg
+7410,20110201,20210307,350,50.7513,9.0224,Neu-Ulrichstein,Hessen,Vogelsbergkreis
+7412,20061001,20210307,340,50.0083,9.4238,Neuhütten/Spessart,Bayern,Landkreis Main-Spessart
+7416,20081011,20200322,541,51.0112,8.2733,Birkelbach,Nordrhein-Westfalen,Kreis Siegen-Wittgenstein
+7420,20070515,20210308,246,51.1044,11.7112,Naumburg/Saale-Kreipitzsch,Sachsen-Anhalt,Burgenlandkreis
+7424,20070413,20200930,457,47.7724,12.9073,Piding,Bayern,Landkreis Berchtesgadener Land
+7432,20070501,20210308,72,52.6423,10.6627,Wittingen-Vorhop,Niedersachsen,Gifhorn
+13674,20070801,20210307,237,49.2943,8.9053,Waibstadt,Baden-Württemberg,Rhein-Neckar-Kreis
+13711,20071201,20200821,289,50.682,11.515,Krölpa-Rockendorf,Thüringen,Saale-Orla-Kreis
+13776,20080301,20110103,85,52.1789,9.9524,Hildesheim-Drispenstedt,Niedersachsen,Landkreis Hildesheim
+13900,20090210,20180507,145,50.2688,9.358,"Soden,Bad-Salmünster (Kläranlage)",Hessen,Main-Kinzig-Kreis
+13965,20081201,20210308,619,48.2639,8.8134,Balingen-Bronnhaupten,Baden-Württemberg,Zollernalbkreis
+15000,20110401,20210307,231,50.7983,6.0244,Aachen-Orsbach,Nordrhein-Westfalen,Städteregion Aachen
+15207,20131101,20210307,317,51.2835,9.359,Schauenburg-Elgershausen,Hessen,Landkreis Kassel
+15444,20140901,20210307,593,48.4418,9.9216,Ulm-Mähringen,Baden-Württemberg,Alb-Donau-Kreis
+15555,20160501,20210308,815,47.8761,10.5849,Kaufbeuren-Oberbeuren,Bayern,Kaufbeuren
